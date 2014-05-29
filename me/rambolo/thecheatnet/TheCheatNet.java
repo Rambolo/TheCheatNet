@@ -1,7 +1,10 @@
 package me.rambolo.thecheatnet;
 
+<<<<<<< HEAD
 import org.bukkit.plugin.java.JavaPlugin;
 
+=======
+>>>>>>> e936bf820c51d05aa7ae39ef50f388ed880598c3
 /**
  * <b>TheCheatNet is a plugin developed by, Rambolo, that will stop every single kind of mod/cheat/hack 
  * that will give the player an unfair advantage over all of the other players on the server. 
